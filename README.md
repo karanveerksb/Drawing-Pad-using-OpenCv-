@@ -1,1 +1,0 @@
-# Drawing-Pad-using-OpenCv-
